@@ -1,0 +1,14 @@
+{
+  "name": "progressive web app try",
+  "short_name": "pwa",
+  "icons": [{ "src": "./logo192.png", "type": "image/png" }],
+  "start_url": "./index.html",
+  "scope": ".",
+  "background_color": "#fff",
+  "theme_color": "#1c82bd",
+  "display": "standalone",
+  "orientaion": "portrait-primary",
+  "description": "progressive web app with react",
+  "dir": "ltr",
+  "lang": "eng-US"
+}
